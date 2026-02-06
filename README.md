@@ -1,37 +1,68 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Marcos+Vinícius+N.+Silva;I+study+Information+Systems+at+UNIFACOL;Be+Welcome!+:%29)](https://git.io/typing-svg) 
-</div>
-
 <div align="center">
-  <a href="https://www.instagram.com/viniciuzx_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/viniciuzdx/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&secondaryColor=333333&height=120&section=header"/>
+
+  <h1>Welcome to Vinícius's GitHub!</h1>
+
+  <h3>🔗 Connect with me</h3>
+
+  <a href="https://www.instagram.com/viniciuzx_/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/viniciuzdx/">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <hr>
+
+  <h2>About me</h2>
+
+  <p>
+    Olá, meu nome é <b>Marcos Vinícius</b> — um desenvolvedor Back-end focado em construir sistemas robustos, escaláveis e eficientes.<br>
+    Busco constantemente transformar lógica complexa em código limpo e funcional.
+  </p>
+
+  <br>
+
+  <b>Backend Developer</b><br>
+  <b>Python / Java</b>
+
+  <hr>
+
+  <h2>Technologies</h2>
+
+  <h3>Core Technologies</h3>
+  <img src="https://img.shields.io/badge/PYTHON-000000?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVA-000000?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/MYSQL-000000?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-000000?style=flat&logo=git&logoColor=white" />
+
+  <br><br>
+
+  <h3>Tools & Workflow</h3>
+  <img src="https://img.shields.io/badge/INTELLIJ-000000?style=flat&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_CODE-000000?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/VISUAL_STUDIO-000000?style=flat&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=flat&logo=github&logoColor=white" />
+
+  <hr>
+
+  <h2>Statistics</h2>
+
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <h4>Most Used Languages</h4>
+        <img src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=viniciuzxd&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&langs_count=8" />
+      </td>
+      <td width="50%" align="center">
+        <h4>GitHub Stats</h4>
+        <img src="https://github-readme-stats-two-beta-28.vercel.app/api?username=viniciuzxd&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&secondaryColor=333333&height=120&section=footer&reversal=true"/>
+
 </div>
- 
-### Main skills:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=coffeescript&logoColor=1572B6&labelColor=0D1117)&nbsp;
-
-### Tools:
-![Intellij](https://img.shields.io/badge/-Intellij-0D1117?style=for-the-badge&logo=intellijidea&logoColor=90ee90&labelColor=0D1117)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
- 
-### Other Knowledge:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-  
-### Studying in this moment:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=coffeescript&logoColor=1572B6&labelColor=0D1117)&nbsp;
-<!-- <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
-<br></div> -->
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
